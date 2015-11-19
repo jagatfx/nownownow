@@ -1,0 +1,36 @@
+{
+  "name": "nownownow",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagatfx/nownownow.git"
+  },
+  "author": "Jacob Madden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagatfx/nownownow/issues"
+  },
+  "homepage": "https://github.com/jagatfx/nownownow#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "d3": "^3.5.9",
+    "d3-cloud": "^1.2.1",
+    "debug": "^2.2.0",
+    "ejs": "^2.3.4",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.13.3",
+    "foreman": "^1.4.1",
+    "morgan": "^1.6.1",
+    "serve-favicon": "^2.3.0"
+  },
+  "engines": {
+    "node": "4.2.1"
+  }
+}
